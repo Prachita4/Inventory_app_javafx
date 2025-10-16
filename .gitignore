@@ -1,0 +1,15 @@
+bin/
+out/
+target/
+*.class
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+lib/
+!lib/README.md
